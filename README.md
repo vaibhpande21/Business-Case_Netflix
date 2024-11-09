@@ -1,6 +1,6 @@
 # Business_Case_Netflix
 
-![Logos]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.pinterest.com%2Fpin%2Fcan-i-participate-in-this-challenge-and-win--642396334357660956%2F&psig=AOvVaw1Akr2GMFCwxJ2e99qhyEmz&ust=1731260850655000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODmybTnz4kDFQAAAAAdAAAAABAK))
+![netflix-intro-netflix](https://github.com/user-attachments/assets/84f718e6-a66d-4c76-a4c7-706e2e9bfbc4)
 
 ## Project Details
 _DataSet Size_: 8807 x 12 [rows x column]
