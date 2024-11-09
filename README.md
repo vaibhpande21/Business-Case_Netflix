@@ -1,6 +1,6 @@
 # Business_Case_Netflix
 
-![Logos]([https://repository-images.githubusercontent.com/452334441/b5da6131-e638-4464-9572-310f86f8340f](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.pinterest.com%2Fpin%2Fcan-i-participate-in-this-challenge-and-win--642396334357660956%2F&psig=AOvVaw1Akr2GMFCwxJ2e99qhyEmz&ust=1731260850655000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODmybTnz4kDFQAAAAAdAAAAABAK))
+![Logos]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.pinterest.com%2Fpin%2Fcan-i-participate-in-this-challenge-and-win--642396334357660956%2F&psig=AOvVaw1Akr2GMFCwxJ2e99qhyEmz&ust=1731260850655000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODmybTnz4kDFQAAAAAdAAAAABAK))
 
 ## Project Details
 _DataSet Size_: 8807 x 12 [rows x column]
